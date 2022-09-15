@@ -1,6 +1,6 @@
 import random
 import time
-
+#help
 puntaje = random.randint(0,10)
 intentos = 0
 iniciar_trivia = True
